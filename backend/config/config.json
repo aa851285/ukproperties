@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "major",
+    "password": "IloveGenius@321",
+    "database": "property_listing",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "major",
+    "password": "IloveGenius@321",
+    "database": "property_listing_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "major",
+    "password": "IloveGenius@321",
+    "database": "property_listing",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
